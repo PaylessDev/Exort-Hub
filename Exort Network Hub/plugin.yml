@@ -1,0 +1,59 @@
+name: Hub
+version: 1.1
+main: me.nerm.Main
+authors: [Nerm]
+description: 
+commands:
+  gma:
+    description:
+    permission: hub.gma
+  gms:
+    description:
+    permission: hub.gms
+  gmc:
+    description:
+    permission: hub.gmc
+  broadcast:
+    description:
+    permission: hub.alert
+  alert:
+    description:
+    permission: hub.alert
+  cc:
+    description:
+    permission: hub.cc
+  fly:
+    description:
+    permission: hub.fly
+  help:
+    description:
+  ?:
+    description:
+  list:
+    description:
+  setslots:
+    description:
+    permission: hub.setslots
+  setcapslots:
+    description:
+    permission: hub.setslots
+  setmaxslots:
+    description:
+    permission: hub.setslots
+  store:
+    description:
+  buy:
+    description:
+  teamspeak:
+    description:
+  ts:
+    description:
+  who:
+    description:
+    permission: hub.who
+  whois:
+    description:
+    permission: hub.who
+  kick:
+    description:
+    permission: hub.kick
